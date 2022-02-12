@@ -25,5 +25,6 @@ Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join 
 ## Screenshots
 ![echo3D console screenshot](/Screenshots/echo3DConsole.png)
 ![Start screen](/Screenshots/startScreen.png)
+![Live unity scene](/Screenshots/gameplayGIF.gif)
 ![Unity scene screenshot](/Screenshots/gameplay1.png)
 ![Unity scene screenshot](/Screenshots/gameplay2.png)
