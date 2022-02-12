@@ -23,7 +23,7 @@ Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about 
 Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
 
 ## Screenshots
-![echo3D console screenshot](/Screenshots/echo3Dconsole.png)
+![echo3D console screenshot](/Screenshots/echo3DConsole.png)
 ![Start screen](/Screenshots/startScreen.png)
 ![Unity scene screenshot](/Screenshots/gameplay1.png)
 ![Unity scene screenshot](/Screenshots/gameplay2.png)
