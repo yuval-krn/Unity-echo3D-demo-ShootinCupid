@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CE49F9C5-A4B5-F319-862E-607B7CF883DE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ButtonDestroyer.cs">
+    <Files>
+      <File FileName="Assets/echo3D/CustomBehaviour.cs" Line="92" Column="50" />
+      <File FileName="Assets/Aimer.cs" Line="54" Column="9" />
+      <File FileName="Assets/echo3D/RemoteTransformations.cs" Line="1" Column="1" />
+      <File FileName="Assets/echo3D/echo3D.cs" Line="458" Column="21" />
+      <File FileName="Assets/ButtonDestroyer.cs" Line="31" Column="2" />
+      <File FileName="Assets/TimeUpdater.cs" Line="57" Column="57" />
+      <File FileName="Assets/ScoreUpdater.cs" Line="1" Column="1" />
+      <File FileName="Assets/CupidMover.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SCPt2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="echo3D" expanded="True" />
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Fonts" expanded="True" />
+              </Node>
+              <Node name="ButtonDestroyer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="380233ad-462d-40ad-93d6-121f8777b390" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
