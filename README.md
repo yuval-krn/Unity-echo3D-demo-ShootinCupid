@@ -11,7 +11,6 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://consol
 * Clone this repo [here](https://github.com/yuval-krn/Unity-echo3D-demo-ShootinCupid/).
 * If you have a compile error with Newtonsoft.Json dll, delete the Assemblies folder here: Assets>Libraries>JsonDotNet>Assemblies
 * [Install the echo3D Unity SDK](https://docs.echo3D.co/unity/installation).
-* Open the sample scene under `echo3D/Examples/sample.unity`.
 * [Add the 3D models](https://docs.echo3D.co/quickstart/add-a-3d-model) from the [models](./Models) folder to the console.
 * Go to [echo3D console](https://console.echo3d.co/#/pages/contentmanager) and click "Add to Cloud" and upload the models.
 * Open the MainGamePlay scence.
